@@ -61,5 +61,5 @@
 			</exclusions>
 		</dependency>
 	</dependencies>
-	<packaging>ear</packaging>
+	<packaging>war</packaging>
 </project>
