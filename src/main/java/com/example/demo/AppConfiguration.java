@@ -6,6 +6,6 @@ public class AppConfiguration {
 @RequestMapping("/hello")
 public String dohello()
 {
-	 "hello world";
+	return "hello world";
 }
 }
